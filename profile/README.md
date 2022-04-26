@@ -1,4 +1,4 @@
-![Open.Intel](https://github.com/intel/.github/blob/main/open.intel-horizontal-lu-steel-3000px.png) 
+![Open.Intel](https://github.com/intel/.github/blob/main/images/open.intel-horizontal-lu-steel-3000px.png) 
 
 ## Intel is committed to open ecosystems
 
