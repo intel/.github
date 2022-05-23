@@ -8,7 +8,7 @@ Community-built open software based on open standards has fueled the modern conn
 * [Explore open source jobs at Intel](https://jobs.intel.com/page/show/search-results#q=open%20source)
 
 
-Visit [open.intel.com](https://open.intel.com) to find out more, or follow us on [twitter](https://twitter.com/IntelSoftware)!
+Visit [open.intel.com](https://open.intel.com) to find out more, or follow us on [Twitter](https://twitter.com/OpenAtIntel)!
 
 ----
 
