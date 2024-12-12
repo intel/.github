@@ -1,18 +1,17 @@
 ![Open.Intel](https://github.com/intel/.github/blob/main/images/open.intel-horizontal-lu-steel-3000px.png) 
 
-## Intel is committed to open ecosystems
+## Supporting Open Source for an Innovative Ecosystem
 
-Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. 
+Innovation thrives in collaborative environments that encourage the free exchange of ideas. Intel is committed to building an open ecosystem that’s transparent, secure, and accessible to all.
+
+As a participant in the open source software community since 1989, Intel uses industry collaboration, co-engineering, and open source contributions to deliver a steady stream of code and optimizations that work across multiple platforms and use cases. We push our contributions upstream so developers get the most current and optimized software that works across multiple platforms and maintains security.
+
+Here on GitHub, we maintain hundreds of repos featuring projects that range from demos and code samples to full-fledged products. Some of our favorites are pinned below!
 
 ## Learn more about Intel's open source efforts
 
-* [Explore featured projects](https://www.intel.com/content/www/us/en/developer/topic-technology/open/overview.html#introtext_1376301626)
-* [Open.Intel Blog](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/bg-p/open-intel)
-* [Listen to the Open at Intel podcast](https://openatintel.podbean.com/)
+* [Explore featured projects](https://www.intel.com/content/www/us/en/developer/topic-technology/open/project-catalog.html)
+* [Open.Intel Blog](https://www.intel.com/content/www/us/en/developer/topic-technology/open/news.html))
+* [Listen to the Open at Intel podcast](https://www.intel.com/content/www/us/en/developer/topic-technology/open/podcast.html)
 
-Visit [open.intel.com](https://open.intel.com) to find out more, or follow us on [Twitter](https://twitter.com/OpenAtIntel) or [Mastodon](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/Twitter-Exodus-Devs-Leave-but-Big-Tech-Won-t-Land-in-the/post/1431977)!
-
-
-----
-
-Intel projects adopt the [Contributor Covenant](https://www.contributor-covenant.org/). 
+Visit [open.intel.com](https://open.intel.com) to find out more, or follow us on [X](https://x.com/OpenAtIntel) or [LinkedIn](https://www.linkedin.com/showcase/openatintel/posts/)!
