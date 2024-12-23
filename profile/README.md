@@ -11,7 +11,7 @@ Here on GitHub, we maintain hundreds of repos featuring projects that range from
 ## Learn more about Intel's open source efforts
 
 * [Explore featured projects](https://www.intel.com/content/www/us/en/developer/topic-technology/open/project-catalog.html)
-* [Open.Intel Blog](https://www.intel.com/content/www/us/en/developer/topic-technology/open/news.html))
+* [Open.Intel Blog](https://www.intel.com/content/www/us/en/developer/topic-technology/open/news.html)
 * [Listen to the Open at Intel podcast](https://www.intel.com/content/www/us/en/developer/topic-technology/open/podcast.html)
 
 Visit [open.intel.com](https://open.intel.com) to find out more, or follow us on [X](https://x.com/OpenAtIntel) or [LinkedIn](https://www.linkedin.com/showcase/openatintel/posts/)!
