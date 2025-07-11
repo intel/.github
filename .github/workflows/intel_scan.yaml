@@ -1,0 +1,43 @@
+name: Intel Scan
+
+permissions: {}
+
+on:
+  workflow_call:
+
+jobs:
+  codeql_actions:
+    # Primary focus on GitHub action security issues
+    # https://docs.github.com/en/code-security/code-scanning/managing-your-code-scanning-configuration/actions-built-in-queries
+    name: CodeQL GitHub Actions
+    runs-on: ubuntu-latest
+    permissions:
+      # Necessary only for private, but better to prepare
+      contents: read
+      packages: read
+      actions: read
+
+      # Necessary to publish results
+      security-events: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # Initializes the CodeQL tools for scanning.
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v3
+      with:
+        languages: actions
+        build-mode: none
+        config: |
+          disable-default-queries: true
+          queries:
+            - uses: security-extended
+#          query-filters:
+#            - exclude:
+#                id: actions/unpinned-tag
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v3
+      with:
+        category: "/language:actions"
