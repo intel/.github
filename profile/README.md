@@ -4,7 +4,7 @@
 </div>
 
 # Develop on Intel, from AI PC to Data Center
-Speed up AI development using Intel®-optimized software on the latest Intel® Core™ Ultra processor, Intel® Xeon® processor, Intel® Gaudi® AI Accelerator, and GPU compute. You can get started right away on the [Intel® Tiber™ AI Cloud](https://console.cloud.intel.com/docs/index.html) for free.
+Speed up AI development using Intel®-optimized software on the latest Intel® Core™ Ultra processor, Intel® Xeon® processor, Intel® Gaudi® AI Accelerator, and GPU compute. 
 
 As a participant in the open source software community since 1989, Intel uses industry collaboration, co-engineering, and open source contributions to deliver a steady stream of code and optimizations that work across multiple platforms and use cases. We push our contributions upstream so developers get the most current and optimized software that works across multiple platforms and maintains security.
 
@@ -21,10 +21,3 @@ Check out the following repositories to jumpstart your development work on Intel
 
 ## DevHub Discord
 Join us on the [Intel DevHub](https://discord.gg/kfJ3NKEw5t) Discord server to chat with other developers in channels like #dev-projects, #gaudi, and #large-language-models.
-
-## Learn more about Intel's open source efforts
-* [Explore featured projects](https://www.intel.com/content/www/us/en/developer/topic-technology/open/project-catalog.html)
-* [Open.Intel Blog](https://www.intel.com/content/www/us/en/developer/topic-technology/open/news.html)
-* [Listen to the Open at Intel podcast](https://www.intel.com/content/www/us/en/developer/topic-technology/open/podcast.html)
-
-Visit [open.intel.com](https://open.intel.com) to find out more, or follow us on [X](https://x.com/OpenAtIntel) or [LinkedIn](https://www.linkedin.com/showcase/openatintel/posts/)!
