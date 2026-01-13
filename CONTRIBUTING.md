@@ -2,11 +2,15 @@
 
 ### License
 
-<PROJECT NAME> is licensed under the terms in [LICENSE]<link to license file in repo>. By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
+<PROJECT NAME> is licensed under the terms in [LICENSE]<link to license file in 
+repo>. By contributing to the project, you agree to the license and copyright 
+terms therein and release your contribution under these terms.
 
 ### Sign your work
 
-Please use the sign-off line at the end of the patch. Your signature certifies that you wrote the patch or otherwise have the right to pass it on as an open-source patch. The rules are pretty simple: if you can certify
+Please use the sign-off line at the end of the patch. Your signature certifies 
+that you wrote the patch or otherwise have the right to pass it on as an open 
+source patch. The rules are pretty simple: if you can certify
 the below (from [developercertificate.org](http://developercertificate.org/)):
 
 ```
@@ -51,7 +55,7 @@ Then you just add a line to every git commit message:
 
     Signed-off-by: Joe Smith <joe.smith@email.com>
 
-Use your real name (sorry, no pseudonyms or anonymous contributions.)
+Use a known identity (sorry, no anonymous contributions).
 
 If you set your `user.name` and `user.email` git configs, you can sign your
 commit automatically with `git commit -s`.
